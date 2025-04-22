@@ -6,3 +6,5 @@ application.properties
 .classpath
 .project
 .settings/
+"src/main/resources/serviceAccountKey.json" 
+"src/main/resources/static/Images/video1.mp4" 
